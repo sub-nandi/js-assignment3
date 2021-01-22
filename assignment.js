@@ -1,4 +1,4 @@
-//https://github.com/sub-nandi/js-assignment3/blob/main/assignment.js
+// https://github.com/sub-nandi/js-assignment3
 
 //problem-1:kilometer to meter conversion
 function kilometerToMeter(kilometer) {
